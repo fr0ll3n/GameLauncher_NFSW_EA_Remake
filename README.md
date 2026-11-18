@@ -1,6 +1,6 @@
 # Need for Speed World - EA Launcher Remake
 
-A **classic EA style** launcher for *Need for Speed World* (Soapbox Race World).
+A **classic EA style** launcher for **Need for Speed World** (Soapbox Race World).
 
 It keeps the look and feel of the original NFS World launcher from EA and connects to community servers such as **NIGHTRIDERZ - HORIZON**, **WorldUnited OFFICIAL** and **WorldEvolved**.
 
