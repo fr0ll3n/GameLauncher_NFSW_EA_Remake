@@ -4,9 +4,9 @@ A **Classic EA style** launcher for *Need for Speed World* (Soapbox Race World).
 
 It keeps the look and feel of the original NFS World launcher from EA and connects to community servers such as **NightRiderz**, **WorldUnited**, and others configured in the build.
 
-## Download (Release)
+## Download 
 
-Use the **Releases** page on this repository and download the latest build package (ZIP/RAR).
+Use the **Releases** page on this repository and download the latest build package (ZIP).
 
 Extract it to a folder of your choice (for example `C:\Games\NFS World Launcher`).
 
@@ -17,7 +17,7 @@ Extract it to a folder of your choice (for example `C:\Games\NFS World Launcher`
 | **OS** | Windows 7 SP1 or newer (Windows 10 / 11 recommended) |
 | **Architecture** | 32-bit (x86) build – works on 64-bit Windows |
 | **.NET Framework** | **4.7.2** or newer (4.8 is fine) |
-| **Admin** | The launcher may ask for administrator permission (UAC) so game files can be updated and launched correctly |
+| **Admin** | The launcher will ask for administrator permission (UAC) so game files can be updated and launched correctly |
 
 ### Install .NET Framework (if needed)
 
