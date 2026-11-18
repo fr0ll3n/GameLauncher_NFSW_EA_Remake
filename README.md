@@ -49,3 +49,10 @@ Optional (only if the promo / web panel is blank):
 ## Support
 
 If the launcher does not open, check that **.NET Framework 4.7.2+** is installed and that you extracted **all** files from the release package.
+
+## Screenshots (Preview)
+<img width="788" height="487" alt="Screenshot 2026-11-18 093800" src="https://github.com/user-attachments/assets/ebe93d73-0b4b-4172-8d23-48d30f335395" />
+<img width="787" height="487" alt="Screenshot 2026-11-18 093838" src="https://github.com/user-attachments/assets/3f99484b-25a9-41d6-a568-6cef1ebb66d9" />
+<img width="788" height="486" alt="Screenshot 2026-11-18 093855" src="https://github.com/user-attachments/assets/7499a2b9-04e3-4ba1-9841-c8fec50554bb" />
+
+
