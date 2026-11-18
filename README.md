@@ -56,10 +56,14 @@ CHICANE - EU (NIGHTRIDERZ - HORIZON: https://nightriderz.world/); CHICANE - US (
 
 ## Screenshots (Preview)
 
+Main panel (After startup):
 <img width="788" height="486" alt="image" src="https://github.com/user-attachments/assets/daaf2b97-ba79-4432-9d30-726374959e52" />
 
+Main panel and the servers":
 <img width="787" height="487" alt="image1" src="https://github.com/user-attachments/assets/34c36450-662c-4968-8d08-bdd7d1afa496" />
 
+Settings panel:
 <img width="788" height="486" alt="image2" src="https://github.com/user-attachments/assets/2d097145-70aa-4b98-b188-0ea9e49435e7" />
 
+After Log in (Download completed status):
 <img width="789" height="486" alt="image3" src="https://github.com/user-attachments/assets/caa38e4f-553b-437d-8fbe-6ab45505a519" />
