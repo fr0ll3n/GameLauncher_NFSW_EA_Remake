@@ -19,7 +19,7 @@ Extract it to a folder of your choice (for example `C:\Games\NFS World Launcher`
 | **.NET Framework** | **4.7.2** or newer (4.8 is fine) |
 | **Admin** | The launcher will ask for administrator permission (UAC) so game files can be updated and launched correctly |
 
-### Install .NET Framework (if needed)
+### Install .NET Framework
 
 Most Windows 10/11 PCs already have it. If the launcher does not start:
 
