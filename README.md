@@ -59,7 +59,7 @@ CHICANE - EU (NIGHTRIDERZ - HORIZON: https://nightriderz.world/); CHICANE - US (
 Main panel (After startup):
 <img width="788" height="486" alt="image" src="https://github.com/user-attachments/assets/daaf2b97-ba79-4432-9d30-726374959e52" />
 
-Main panel and the servers":
+Main panel and the servers:
 <img width="787" height="487" alt="image1" src="https://github.com/user-attachments/assets/34c36450-662c-4968-8d08-bdd7d1afa496" />
 
 Settings panel:
