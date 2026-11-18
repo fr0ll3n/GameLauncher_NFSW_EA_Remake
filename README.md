@@ -10,7 +10,7 @@ Use the **Releases** page on this repository and download the latest build packa
 
 Extract it to a folder of your choice (for example `C:\Games\NFS World Launcher`).
 
-## What you need to run it
+## What you need to run it:
 
 | Requirement | Details |
 |-------------|---------|
