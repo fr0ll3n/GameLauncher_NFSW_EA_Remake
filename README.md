@@ -44,7 +44,7 @@ Optional (only if the promo / web panel is blank):
 
 - This is a **community** launcher, not an official Electronic Arts product.
 - *Need for Speed* and related marks belong to Electronic Arts Inc.
-- You need a valid account on the private server you play on (register on the server’s website if you do not have one).
+- You need a valid account on each server you play on (register on the server’s website if you do not have one).
 
 ## Support
 
